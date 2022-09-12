@@ -1,7 +1,7 @@
 [![MasterHead](https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)](https://jetcodex.com/)
 <h1 align="center">Hi 👋, I'm Sandeep Tomar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeptomar007&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeptomar007" /> </p>
+[![](https://visitcount.itsvg.in/api?id=sandeeptomar007&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <a href="https://www.linkedin.com/in/sandeeptomar47/">
     <img align = "left", alt="sandeeptomar47's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-3,400-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -145,15 +145,21 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 
 
 
-# Github Stats 📈📊
+# Github Stats📊
 
 <div align="center">
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sandeeptomar007&show_icons=true&theme=dracula"  alt="sandeeptomar007"  />
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=sandeeptomar007&show_icons=true&theme=dracula" alt="sandeeptomar007" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeeptomar007&show_icons=true&theme=dracula" alt="sandeeptomar007" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sandeeptomar007&theme=merko&hide_border=false&include_all_commits=true&count_private=false"  alt="sandeeptomar007"  />
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=sandeeptomar007&theme=merko&hide_border=false" alt="sandeeptomar007" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeeptomar007&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </p>
 </div>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
 
 <br/><br/>
 
