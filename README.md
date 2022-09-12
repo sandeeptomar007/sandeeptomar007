@@ -167,7 +167,7 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 
 ---
 
-**Thanks and Regards ❤**
+**Thank you ❤**
 <hr/>
 
 
