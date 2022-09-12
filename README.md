@@ -1,8 +1,7 @@
 <h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width= "28px"/> I'm Sandeep Tomar</h1><a href="#">
-<a>
-   <img src="https://komarev.com/ghpvc/?username=sandeeptomar007&style=flat-square&label=Profile+Visitors&color=green" alt="sandeeptomar" />
- </a>
- 
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeptomar007&style=flat-square&label=Profile+Visitors&color=green" alt="sandeeptomar007" /> </p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/sandeeptomar47/">
     <img align = "left", alt="sandeeptomar47's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-3,400-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
