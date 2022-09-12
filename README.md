@@ -156,7 +156,7 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 </div>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Inspirational Tech Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
