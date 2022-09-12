@@ -1,12 +1,17 @@
 [![MasterHead](https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)](https://jetcodex.com/)
 <h1 align="center">Hi 👋, I'm Sandeep Tomar</h1>
-<h3 align="center">A data science enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeptomar007&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeptomar007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_sandeep_tomar" target="blank"><img src="https://img.shields.io/twitter/follow/_sandeep_tomar?logo=twitter&style=for-the-badge" alt="_sandeep_tomar" /></a> </p>
+<a href="https://www.linkedin.com/in/sandeeptomar47/">
+    <img align = "left", alt="sandeeptomar47's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-3,400-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
+</a>
 
-About me 🤓
+
+<h1 align="center"></h1>
+
+
+### About me 🤓
 
 Hello there, My name is Sandeep Tomar.  Even though I occasionally use difficult terms, I'm actually a simple man who enjoys making complicated things simple. 
 
@@ -41,11 +46,123 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 <a href="https://medium.com/@jetcodex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jetcodex" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeeptomar007&show_icons=true&locale=en&layout=compact" alt="sandeeptomar007" /></p>
+# Languages and Tools 🛠
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+     <a href="#" target="_blank">
+      <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <br/>Python
+   </td>
+   <td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
+    <br/> Pandas
+   </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+      </a>
+      <br>NumPy
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/>
+      </a>
+      <br>Matplotlib
+    </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+      </a>
+      <br>Seaborn
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+      </a>
+      <br>Flask
+    </td> 
+  </tr>
+  <tr> 
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn" />
+      </a>
+      <br>Scikit Learn
+    </td>
+    
+    
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
+      </a>
+      <br>Power BI
+ </td> 
+    
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+      </a>
+      <br>Tableau
+</td>
+    
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" alt="Google Data studio" width="40" height="40"/>
+      </a>
+      <br>OpenCV
+</td>
+     
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+      </a>
+      <br>MySQL
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="bootstrap" width="40" height="40"/>
+      </a>
+      <br>Tensorflow
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/>
+      <br>MS Office
+</td>
+</tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeeptomar007&show_icons=true&locale=en" alt="sandeeptomar007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeeptomar007&" alt="sandeeptomar007" /></p>
+
+# Github Stats 📈📊
+
+<div align="center">
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sandeeptomar007&show_icons=true&theme=dracula"  alt="sandeeptomar007"  />
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=sandeeptomar007&show_icons=true&theme=dracula" alt="sandeeptomar007" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeeptomar007&show_icons=true&theme=dracula" alt="sandeeptomar007" />
+  </p>
+</div>
+
+<br/><br/>
+
+[![Sandeep’s github activity graph](https://activity-graph.herokuapp.com/graph?username=sandeeptomar007&theme=dracula)](https://github.com/sandeeptomar007)
+
+---
+
+**Thanks and Regards ❤**
+<hr/>
+
+
+
