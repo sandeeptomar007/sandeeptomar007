@@ -1,7 +1,7 @@
 [![MasterHead](https://w10.naukri.com/mailers/2021/naukri-learning/oct/27oct/what-is-data-analyst.jpg)](https://jetcodex.com/)
 <h1 align="center">Hi 👋, I'm Sandeep Tomar</h1>
 
-[![](https://visitcount.itsvg.in/api?id=sandeeptomar007&icon=5&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeeptomar007&label=Profile%20views&color=0e75b6&style=flat" alt="sandeeptomar007" /> </p>
 
 <a href="https://www.linkedin.com/in/sandeeptomar47/">
     <img align = "left", alt="sandeeptomar47's LinkedIn" title="My LinkedIn Followers" src="https://img.shields.io/badge/LinkedIn-3,400-blue?color=blue&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge" />
