@@ -30,7 +30,7 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 
 
 # Languages and Tools 🛠
-// first row
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -76,7 +76,8 @@ I enjoy learning new things and sharing what I have learned with others. I came 
       <br>Flask
     </td> 
   </tr>
-  // second row
+  
+  
   <tr> 
      <td align="center" width="96">
       <a href="#" >
@@ -125,7 +126,7 @@ I enjoy learning new things and sharing what I have learned with others. I came 
       <br>MS Office
 </td>
 </tr>
-      // third row  
+   
         <tr> 
           <td align="center" width="96">
             <a href="#" >
