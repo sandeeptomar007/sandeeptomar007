@@ -130,7 +130,7 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 <tr> 
      <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.flaticon.com/free-icon/java_919854?term=java+logo&page=1&position=5&origin=tag&related_id=919854" width="48" height="48" alt="java" />
+        <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="48" height="48" alt="java" />
       </a>
       <br>JAVA
     </td>
@@ -138,40 +138,40 @@ I enjoy learning new things and sharing what I have learned with others. I came 
     
  <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://www.flaticon.com/free-icon/data_6174618?term=data+structure&page=1&position=11&origin=search&related_id=6174618" alt="dsa" width="40" height="40"/>
+        <img loading="lazy" src="https://www.svgrepo.com/show/486251/data-developmentscript-development.svg" alt="dsa" width="40" height="40"/>
       </a>
       <br>DSA
  </td> 
     
  <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://www.flaticon.com/free-icon/html-5_888859?term=html&page=1&position=4&origin=search&related_id=888859" alt="html" width="40" height="40"/>
+        <img loading="lazy" src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html" width="40" height="40"/>
       </a>
       <br>HTML
 </td>
     
 <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://www.flaticon.com/free-icon/css-3_5968242?term=css&page=1&position=3&origin=search&related_id=5968242" alt="css" width="40" height="40"/>
+        <img loading="lazy" src="https://www.svgrepo.com/show/353623/css-3.svg" alt="css" width="40" height="40"/>
       </a>
       <br>CSS
 </td>
      
 <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://www.flaticon.com/free-icon/js_5968292?term=js&page=1&position=2&origin=search&related_id=5968292" width="40" height="40"/>
+        <img loading="lazy" src="https://www.svgrepo.com/show/373705/js-official.svg" width="40" height="40"/>
       </a>
       <br>Java-Script
 </td>
 <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://www.flaticon.com/free-icon/react_1183672?term=react&page=1&position=9&origin=search&related_id=1183672" alt="react.js" width="40" height="40"/>
+        <img loading="lazy" src="https://www.svgrepo.com/show/503536/react.svg" alt="react.js" width="40" height="40"/>
       </a>
       <br>React.js
 </td>
 <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://www.flaticon.com/free-icon/file_14390315?term=aws&page=1&position=1&origin=search&related_id=14390315" alt="microsoft-office" width="40" height="40"/>
+        <img loading="lazy" src="https://www.svgrepo.com/show/448266/aws.svg" alt="microsoft-office" width="40" height="40"/>
       <br>AWS
 </td>
 </tr>
