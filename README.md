@@ -123,6 +123,7 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 <td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/>
+      </a>
       <br>MS Office
 </td>
 </tr>
@@ -130,7 +131,7 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 <tr> 
      <td align="center" width="96">
       <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="48" height="48" alt="java" />
+        <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="48" height="48" alt="java" />
       </a>
       <br>JAVA
     </td>
@@ -171,7 +172,8 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 </td>
 <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://www.svgrepo.com/show/448266/aws.svg" alt="microsoft-office" width="40" height="40"/>
+        <img loading="lazy" src="https://www.svgrepo.com/show/448266/aws.svg" alt="aws" width="40" height="40"/>
+      </a>
       <br>AWS
 </td>
 </tr>
