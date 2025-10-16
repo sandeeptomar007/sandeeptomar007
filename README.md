@@ -78,7 +78,7 @@ I enjoy learning new things and sharing what I have learned with others. I came 
   </tr>
   
   
-  <tr> 
+<tr> 
      <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn" />
@@ -126,65 +126,62 @@ I enjoy learning new things and sharing what I have learned with others. I came 
       <br>MS Office
 </td>
 </tr>
-   
-        <tr> 
-          <td align="center" width="96">
-            <a href="#" >
-              <img src="https://www.flaticon.com/free-icon/java_919854?term=java+logo&page=1&position=5&origin=tag&related_id=919854" width="48" height="48" alt="scikit-learn" />
-            </a>
-            <br>Java
-          </td>  
 
-          <td align="center" width="96">
-            <a href="#" >
-              <img src="https://www.flaticon.com/free-icon/data_6174618?term=data+structure&page=1&position=11&origin=search&related_id=6174618" width="48" height="48" alt="scikit-learn" />
-            </a>
-            <br>DSA
-          </td>  
-
-          <td align="center" width="96">
-            <a href="#" >
-              <img src="https://www.flaticon.com/free-icon/html-5_888859?term=html&page=1&position=4&origin=search&related_id=888859" width="48" height="48" alt="scikit-learn" />
-            </a>
-            <br>HTML
-          </td>  
-
-          <td align="center" width="96">
-            <a href="#" >
-              <img src="https://www.flaticon.com/free-icon/css-3_5968242?term=css&page=1&position=3&origin=search&related_id=5968242" width="48" height="48" alt="scikit-learn" />
-            </a>
-            <br>CSS
-          </td>  
-
-          <td align="center" width="96">
-            <a href="#" >
-              <img src="https://www.flaticon.com/free-icon/js_5968292?term=js&page=1&position=2&origin=search&related_id=5968292" width="48" height="48" alt="scikit-learn" />
-            </a>
-            <br>JAVA-Script
-          </td>  
-          
-          <td align="center" width="96">
-            <a href="#" >
-              <img src="https://www.flaticon.com/free-icon/react_1183672?term=react&page=1&position=9&origin=search&related_id=1183672" width="48" height="48" alt="scikit-learn" />
-            </a>
-            <br>React.js
-          </td>  
-
-          <td align="center" width="96">
-            <a href="#" >
-              <img src="https://www.flaticon.com/free-icon/file_14390315?term=aws&page=1&position=1&origin=search&related_id=14390315" width="48" height="48" alt="scikit-learn" />
-            </a>
-            <br>AWS
-          </td>  
-        </tr>  
+<tr> 
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.flaticon.com/free-icon/java_919854?term=java+logo&page=1&position=5&origin=tag&related_id=919854" width="48" height="48" alt="java" />
+      </a>
+      <br>JAVA
+    </td>
+    
+    
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.flaticon.com/free-icon/data_6174618?term=data+structure&page=1&position=11&origin=search&related_id=6174618" alt="dsa" width="40" height="40"/>
+      </a>
+      <br>DSA
+ </td> 
+    
+ <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.flaticon.com/free-icon/html-5_888859?term=html&page=1&position=4&origin=search&related_id=888859" alt="html" width="40" height="40"/>
+      </a>
+      <br>HTML
+</td>
+    
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.flaticon.com/free-icon/css-3_5968242?term=css&page=1&position=3&origin=search&related_id=5968242" alt="css" width="40" height="40"/>
+      </a>
+      <br>CSS
+</td>
+     
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.flaticon.com/free-icon/js_5968292?term=js&page=1&position=2&origin=search&related_id=5968292" width="40" height="40"/>
+      </a>
+      <br>Java-Script
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.flaticon.com/free-icon/react_1183672?term=react&page=1&position=9&origin=search&related_id=1183672" alt="react.js" width="40" height="40"/>
+      </a>
+      <br>React.js
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.flaticon.com/free-icon/file_14390315?term=aws&page=1&position=1&origin=search&related_id=14390315" alt="microsoft-office" width="40" height="40"/>
+      <br>AWS
+</td>
+</tr>
 </table>
-
-
+  
 
 # Github Stats📊
 
 <div align="center">
-<p>
+ <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sandeeptomar007&theme=merko&hide_border=false&include_all_commits=true&count_private=false"  alt="sandeeptomar007"  />
   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=sandeeptomar007&theme=merko&hide_border=false" alt="sandeeptomar007" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeeptomar007&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
