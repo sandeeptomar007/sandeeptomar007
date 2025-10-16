@@ -187,7 +187,8 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 
 <br/><br/>
 
-[![Sandeep’s github activity graph](https://activity-graph.herokuapp.com/graph?username=sandeeptomar007&theme=dracula)](https://github.com/sandeeptomar007)
+// [![Sandeep’s github activity graph](https://activity-graph.herokuapp.com/graph?username=sandeeptomar007&theme=dracula)](https://github.com/sandeeptomar007)
+[![Sandeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeeptomar007)](https://github.com/sandeeptomar007/github-readme-activity-graph)
 
 ---
 
