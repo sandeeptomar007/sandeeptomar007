@@ -32,137 +32,36 @@ I enjoy learning new things and sharing what I have learned with others. I came 
 # Languages and Tools 🛠
 
 <table align="center">
-  <tr>
-    <td align="center" width="96">
-     <a href="#" target="_blank">
-      <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <br/>Python
-   </td>
-   <td align="center" width="96">
-    <a href="#" target="_blank"> 
-     <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <br/> Pandas
-   </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
-      </a>
-      <br>NumPy
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/>
-      </a>
-      <br>Matplotlib
-    </td>
-   <td align="center" width="96">
-      <a href="#">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
-      </a>
-      <br>Seaborn
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-      </a>
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://hexmos.com/freedevtools/svg_icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
-      </a>
-      <br>Flask
-    </td> 
-  </tr>
-  
-  
-<tr> 
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn" />
-      </a>
-      <br>Scikit Learn
-    </td>
-    
-    
- <td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
-      </a>
-      <br>Power BI
- </td> 
-    
- <td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
-      </a>
-      <br>Tableau
-</td>
-    
-<td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" alt="Google Data studio" width="40" height="40"/>
-      </a>
-      <br>OpenCV
-</td>
-     
-<td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-      </a>
-      <br>MySQL
-</td>
-<td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="bootstrap" width="40" height="40"/>
-      </a>
-      <br>Tensorflow
-</td>
-<td align="center" width="96">
-      <a href="#">
-        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/>
-      </a>
-      <br>MS Office
-</td>
-</tr>
-
-<tr> 
-     <td align="center" width="96">
+  <tr> 
+  <td align="center" width="96">
       <a href="#" >
         <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" width="48" height="48" alt="java" />
       </a>
       <br>JAVA
-    </td>
-    
-    
- <td align="center" width="96">
+  </td>
+  <td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://www.svgrepo.com/show/486251/data-developmentscript-development.svg" alt="dsa" width="40" height="40"/>
       </a>
       <br>DSA
  </td> 
-    
  <td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html" width="40" height="40"/>
       </a>
       <br>HTML
 </td>
-    
 <td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://www.svgrepo.com/show/353623/css-3.svg" alt="css" width="40" height="40"/>
       </a>
       <br>CSS
-</td>
-     
+</td>     
 <td align="center" width="96">
       <a href="#">
         <img loading="lazy" src="https://www.svgrepo.com/show/373705/js-official.svg" width="40" height="40"/>
       </a>
-      <br>Java-Script
+      <br>JS
 </td>
 <td align="center" width="96">
       <a href="#">
@@ -175,6 +74,96 @@ I enjoy learning new things and sharing what I have learned with others. I came 
         <img loading="lazy" src="https://www.svgrepo.com/show/448266/aws.svg" alt="aws" width="40" height="40"/>
       </a>
       <br>AWS
+</td>
+</tr>
+  
+<tr>
+<td align="center" width="96">
+     <a href="#" target="_blank">
+      <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <br/>Python
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://hexmos.com/freedevtools/svg_icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
+      </a>
+      <br>Flask
+</td> 
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+      </a>
+      <br>MySQL
+</td>
+<td align="center" width="96">
+    <a href="#" target="_blank"> 
+     <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
+    <br/> Pandas
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/>
+      </a>
+      <br>NumPy
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/>
+      </a>
+      <br>Matplotlib
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" />
+      </a>
+      <br>Seaborn
+</td>
+</tr>
+  
+<tr> 
+<td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn" />
+      </a>
+      <br>Sk-Learn
+</td>  
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" alt="Google Data studio" width="40" height="40"/>
+      </a>
+      <br>OpenCV
+</td>
+<td align="center"  width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+      </a>
+      <br>PyTorch
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="bootstrap" width="40" height="40"/>
+      </a>
+      <br>Tensorflow
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
+      </a>
+      <br>Power BI
+</td> 
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.svgrepo.com/show/512317/github-142.svg" alt="Github" width="40" height="40"/>
+      </a>
+      <br>Github
+</td>
+<td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft-office" width="40" height="40"/>
+      </a>
+      <br>MS Office
 </td>
 </tr>
 </table>
