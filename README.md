@@ -13,30 +13,12 @@
 
 ### About me 🤓
 
-Hello there, My name is Sandeep Tomar.  Even though I occasionally use difficult terms, I'm actually a simple man who enjoys making complicated things simple. 
+Hello Everyone, 
+I am Sandeep Tomar, a passionate with a strong foundation in software and web development. Skilled in Python, Java, JavaScript, React.js, MySQL, and AWS, I also have exposure to AI/ML frameworks like TensorFlow, PyTorch, and Scikit-learn.
 
-I am a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for practical data analyses, including SQL, Spreadsheets, Tableau, PowerBI, Python, and R. Strong communication, organizational, and analytical skills. Apart from this, I enjoy doing other things, such as design, web development, blogging, research, making short videos and reels, etc.
+I am a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for practical data analyses, including SQL, Spreadsheets, PowerBI, and Python. Strong communication, organizational, and analytical skills.
 
 I enjoy learning new things and sharing what I have learned with others. I came up with the idea of using JetCodeX as a platform with the intention of sharing information. I decided to start blogging because I love to learn and share. Well, I create blogs with the intention of always enhancing myself and also attempting to make readers' lives richer.
-
-
-- 🔭 I’m currently working on **Power BI and Tableau Projects.**
-
-- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
-
-- 👯 I’m looking for help with **Data Analyst Projects.**
-
-- 🤝 Ready to collaborate.
-
-- 👨‍💻 All of my projects are available at Github.
-
-- 📝 I regularly write articles on Data Science related stuff on [JetCodeX.](https://jetcodex.com/)
-
-- 💬 Ask me about **Data Science.**
-
-- 📫 How to reach me **sandeeptomar3215@gmail.com**
-
-- ⚡ Fun fact: **I believe I am good at research because I enjoy learning new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
