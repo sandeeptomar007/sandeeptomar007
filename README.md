@@ -13,8 +13,14 @@
 
 ### About me 🤓
 
-Hello Everyone, 
-I am Sandeep Tomar, a passionate with a strong foundation in software and web development. Skilled in Python, Java, JavaScript, React.js, MySQL, and AWS, I also have exposure to AI/ML frameworks like TensorFlow, PyTorch, and Scikit-learn.
+Hello Everyone,  
+I am Sandeep Tomar, a motivated and analytical Computer Science graduate currently pursuing my Master of Computer Applications (MCA) at MIET, Meerut. With a strong foundation in Artificial Intelligence, Machine Learning, and software development, I enjoy building intelligent systems that solve real-world problems through data-driven insights.
+
+I am proficient in Python, Java, JavaScript, and experienced in modern web technologies such as HTML5, CSS3, and React.js. My technical toolkit also includes MySQL, AWS, Git/GitHub, and essential concepts like Data Structures and Algorithms. In the AI/ML domain, I frequently work with TensorFlow, PyTorch, Scikit-learn, and NLP-based models.
+
+Through academic projects, I have developed practical solutions such as an IoT-AI powered medical diagnosis engine that achieved 94% prediction accuracy, and an AI-powered virtual health assistant integrated with the Google Gemini API. These projects strengthened my experience in model building, feature engineering, debugging, teamwork, and API integration.
+
+I am a quick learner with strong logical reasoning, a positive attitude, and the ability to adapt rapidly to new technologies. Passionate about AI innovation, I aim to contribute to impactful projects that improve lives and push the boundaries of intelligent systems.
 
 I am a versatile individual with experience collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for practical data analyses, including SQL, Spreadsheets, PowerBI, and Python. Strong communication, organizational, and analytical skills.
 
